@@ -6,6 +6,7 @@
   },
   "private": true,
   "dependencies": {
+    "@babel/core": "^7.16.0",
     "@ckeditor/ckeditor5-build-classic": "^31.1.0",
     "@ckeditor/ckeditor5-react": "^3.0.3",
     "@testing-library/jest-dom": "^5.11.4",
