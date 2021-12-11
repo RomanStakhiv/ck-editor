@@ -1,6 +1,9 @@
 {
   "name": "ck-editor",
   "version": "0.1.0",
+  "engines": {
+    "node": "14.x"
+  },
   "private": true,
   "dependencies": {
     "@ckeditor/ckeditor5-build-classic": "^31.1.0",
