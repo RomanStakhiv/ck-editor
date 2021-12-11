@@ -31,7 +31,7 @@ function App() {
                     // PROVIDE CORRECT VALUES HERE:
                     tokenUrl: 'https://dev-tr.creativesociety.com/api/v1/websocket/token',
                     uploadUrl: 'https://your-organization-id.cke-cs.com/easyimage/upload/',
-                    webSocketUrl: 'https://dev-tr.creativesociety.com/api/v1/websocket/token'
+                    webSocketUrl: 'wss://dev-tr.creativesociety.com/test/websocket'
                 },
                 collaboration: {
                     channelId: 'document-id'
